@@ -1,0 +1,4 @@
+bazel-bin
+bazel-judger_suite
+bazel-out
+bazel-testlogs
